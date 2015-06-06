@@ -2,9 +2,9 @@
   "name": "mindcookin.github.io",
   "version": "1.0.0",
   "description": "Mind Cookin's portfolio",
-  "main": "index.js",
+  "main": "app/index.js",
   "scripts": {
-    "test": "tape"
+    "test": "tape app/**/__tests/*.js"
   },
   "repository": {
     "type": "git",
@@ -18,6 +18,8 @@
   "homepage": "https://github.com/MindCookin/mindcookin.github.io",
   "devDependencies": {
     "browserify": "^10.2.3",
-    "react": "^0.13.3"
+    "react": "^0.13.3",
+    "tap-spec": "^4.0.0",
+    "tape": "^4.0.0"
   }
 }
