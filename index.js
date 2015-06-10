@@ -22,7 +22,7 @@ let renderContact = function () {
   );
 };
 
-let langs = ['Javascript', 'SQL', 'NoSQL', 'GIT', 'Python', 'CLI', 'C/#/++', 'ActionScript'];
+let langs = ['Javascript', 'SQL', 'NoSQL', 'GIT', 'Python', 'CLI', 'MongoDB', 'C/#/++', 'ActionScript', 'Vim', 'Arduino'];
 let renderHeader = function () {
   React.render(
     <Header
