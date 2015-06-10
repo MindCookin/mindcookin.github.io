@@ -2,9 +2,9 @@
   "name": "mindcookin.github.io",
   "version": "1.0.0",
   "description": "Mind Cookin's portfolio",
-  "main": "app/index.js",
+  "main": "index.js",
   "scripts": {
-    "test": "tape app/**/__tests/*.js"
+    "test": "tape js/**/__tests/*.js"
   },
   "repository": {
     "type": "git",
@@ -15,8 +15,11 @@
   "bugs": {
     "url": "https://github.com/MindCookin/mindcookin.github.io/issues"
   },
+  "transform": [["babelify", {"blacklist": ["regenerator"]}]], 
   "homepage": "https://github.com/MindCookin/mindcookin.github.io",
   "devDependencies": {
+    "babel": "^5.5.6",
+    "babelify": "^6.1.2",
     "browserify": "^10.2.3",
     "react": "^0.13.3",
     "tap-spec": "^4.0.0",
