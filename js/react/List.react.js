@@ -1,5 +1,7 @@
 'use strict'
 
+const React = require('react'); 
+
 const List = React.createClass({
   render () {
     
