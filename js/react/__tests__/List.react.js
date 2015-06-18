@@ -1,4 +1,3 @@
-var test = require('tape');
 var list = require('../List.react');
 
 test('list of things I love', function (t) {
