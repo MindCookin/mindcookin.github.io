@@ -1,4 +1,5 @@
 var test = require('tape');
+var List = require('../List.react.js');
 
 test('header', function (t) {
 

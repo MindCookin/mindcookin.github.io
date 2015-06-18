@@ -5,6 +5,7 @@
   "main": "index.js",
   "scripts": {
     "test": "jest",
+    "lint": "eslint ./js/**/*.js",
     "build": "browserify -d -e index.js -t babelify -o dist/bundle.js"
   },
   "repository": {
@@ -41,9 +42,12 @@
   "homepage": "https://github.com/MindCookin/mindcookin.github.io",
   "devDependencies": {
     "babel": "^5.5.6",
+    "babel-eslint": "^3.1.17",
     "babel-jest": "^5.3.0",
     "babelify": "^6.1.2",
     "browserify": "^10.2.3",
+    "eslint": "^0.23.0",
+    "eslint-plugin-react": "^2.5.2",
     "jest-cli": "^0.4.13",
     "react": "^0.13.3"
   }

@@ -1,21 +1,21 @@
-'use strict'
-
-const LangList = React.createClass({
-  render () {
-    
-    let createItem = function (text, index) {
-      return <li key={index + text}>{ text }</li>;
-    }
-
-    return (
-      <div className="container-fluid row">
-        <ul className="list-inline lead text-center">{this.props.langs.map(createItem)}</ul>
-      </div>
-    );
-  }
-});
+'use strict';
 
 const header = function ({React}) {
+
+  const LangList = React.createClass({
+    render () {
+
+      let createItem = function (text, index) {
+        return <li key={index + text}>{ text }</li>;
+      };
+
+      return (
+        <div className="container-fluid row">
+          <ul className="list-inline lead text-center">{this.props.langs.map(createItem)}</ul>
+        </div>
+      );
+    }
+  });
 
   const {
     string,
@@ -23,11 +23,11 @@ const header = function ({React}) {
   } = React.PropTypes;
 
   return function Header (props) {
-    
+
       Header.propTypes = {
         sentence: string,
         langs: array
-      }
+      };
 
     return {
 
@@ -48,8 +48,8 @@ const header = function ({React}) {
           </div>
         );
       }
-    }
-  }
+    };
+  };
 };
 
 export default header;
