@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="utf-8"?>
+<game>
+	<startLevel>1</startLevel>
+	<startSubLevel>0</startSubLevel>
+	<levels>
+		<level id="1">
+			<sublevel id="0">
+				<targetScore>25</targetScore>
+				<extraTimeLevel>0</extraTimeLevel>
+				<subLevelUpEvents>1</subLevelUpEvents>
+				<subLevelDownEvents>-5</subLevelDownEvents>
+			</sublevel>
+			<sublevel id="1">
+				<targetScore>25</targetScore>
+				<extraTimeLevel>0</extraTimeLevel>
+				<subLevelUpEvents>1</subLevelUpEvents>
+				<subLevelDownEvents>-5</subLevelDownEvents>
+			</sublevel>
+			<sublevel id="2">
+				<targetScore>25</targetScore>
+				<extraTimeLevel>0</extraTimeLevel>
+				<subLevelUpEvents>1</subLevelUpEvents>
+				<subLevelDownEvents>-5</subLevelDownEvents>
+			</sublevel>
+			<sublevel id="3">
+				<targetScore>25</targetScore>
+				<extraTimeLevel>0</extraTimeLevel>
+				<subLevelUpEvents>1</subLevelUpEvents>
+				<subLevelDownEvents>-5</subLevelDownEvents>
+			</sublevel>
+			<sublevel id="4">
+				<targetScore>25</targetScore>
+				<extraTimeLevel>0</extraTimeLevel>
+				<subLevelUpEvents>1</subLevelUpEvents>
+				<subLevelDownEvents>-5</subLevelDownEvents>
+			</sublevel>
+			<sublevel id="5">
+				<targetScore>25</targetScore>
+				<extraTimeLevel>0</extraTimeLevel>
+				<subLevelUpEvents>1</subLevelUpEvents>
+				<subLevelDownEvents>-5</subLevelDownEvents>
+			</sublevel>
+		</level>
+		<level id="2">
+			<sublevel id="0">
+				<targetScore>25</targetScore>
+				<extraTimeLevel>0</extraTimeLevel>
+				<subLevelUpEvents>1</subLevelUpEvents>
+				<subLevelDownEvents>-5</subLevelDownEvents>
+			</sublevel>
+			<sublevel id="1">
+				<targetScore>25</targetScore>
+				<extraTimeLevel>0</extraTimeLevel>
+				<subLevelUpEvents>1</subLevelUpEvents>
+				<subLevelDownEvents>-5</subLevelDownEvents>
+			</sublevel>
+			<sublevel id="2">
+				<targetScore>25</targetScore>
+				<extraTimeLevel>0</extraTimeLevel>
+				<subLevelUpEvents>1</subLevelUpEvents>
+				<subLevelDownEvents>-5</subLevelDownEvents>
+			</sublevel>
+			<sublevel id="3">
+				<targetScore>25</targetScore>
+				<extraTimeLevel>0</extraTimeLevel>
+				<subLevelUpEvents>1</subLevelUpEvents>
+				<subLevelDownEvents>-5</subLevelDownEvents>
+			</sublevel>
+			<sublevel id="4">
+				<targetScore>25</targetScore>
+				<extraTimeLevel>0</extraTimeLevel>
+				<subLevelUpEvents>1</subLevelUpEvents>
+				<subLevelDownEvents>-5</subLevelDownEvents>
+			</sublevel>
+			<sublevel id="5">
+				<targetScore>25</targetScore>
+				<extraTimeLevel>0</extraTimeLevel>
+				<subLevelUpEvents>1</subLevelUpEvents>
+				<subLevelDownEvents>-5</subLevelDownEvents>
+			</sublevel>
+		</level>
+		<level id="3">
+			<sublevel id="0">
+				<targetScore>25</targetScore>
+				<extraTimeLevel>0</extraTimeLevel>
+				<subLevelUpEvents>1</subLevelUpEvents>
+				<subLevelDownEvents>-5</subLevelDownEvents>
+			</sublevel>
+			<sublevel id="1">
+				<targetScore>25</targetScore>
+				<extraTimeLevel>0</extraTimeLevel>
+				<subLevelUpEvents>1</subLevelUpEvents>
+				<subLevelDownEvents>-5</subLevelDownEvents>
+			</sublevel>
+			<sublevel id="2">
+				<targetScore>25</targetScore>
+				<extraTimeLevel>0</extraTimeLevel>
+				<subLevelUpEvents>1</subLevelUpEvents>
+				<subLevelDownEvents>-5</subLevelDownEvents>
+			</sublevel>
+			<sublevel id="3">
+				<targetScore>25</targetScore>
+				<extraTimeLevel>0</extraTimeLevel>
+				<subLevelUpEvents>1</subLevelUpEvents>
+				<subLevelDownEvents>-5</subLevelDownEvents>
+			</sublevel>
+			<sublevel id="4">
+				<targetScore>25</targetScore>
+				<extraTimeLevel>0</extraTimeLevel>
+				<subLevelUpEvents>1</subLevelUpEvents>
+				<subLevelDownEvents>-5</subLevelDownEvents>
+			</sublevel>
+			<sublevel id="5">
+				<targetScore>25</targetScore>
+				<extraTimeLevel>0</extraTimeLevel>
+				<subLevelUpEvents>1</subLevelUpEvents>
+				<subLevelDownEvents>-5</subLevelDownEvents>
+			</sublevel>
+		</level>
+		<level id="4">
+			<sublevel id="0">
+				<targetScore>25</targetScore>
+				<extraTimeLevel>0</extraTimeLevel>
+				<subLevelUpEvents>1</subLevelUpEvents>
+				<subLevelDownEvents>-5</subLevelDownEvents>
+			</sublevel>
+			<sublevel id="1">
+				<targetScore>25</targetScore>
+				<extraTimeLevel>0</extraTimeLevel>
+				<subLevelUpEvents>1</subLevelUpEvents>
+				<subLevelDownEvents>-5</subLevelDownEvents>
+			</sublevel>
+			<sublevel id="2">
+				<targetScore>25</targetScore>
+				<extraTimeLevel>0</extraTimeLevel>
+				<subLevelUpEvents>1</subLevelUpEvents>
+				<subLevelDownEvents>-5</subLevelDownEvents>
+			</sublevel>
+			<sublevel id="3">
+				<targetScore>25</targetScore>
+				<extraTimeLevel>0</extraTimeLevel>
+				<subLevelUpEvents>1</subLevelUpEvents>
+				<subLevelDownEvents>-5</subLevelDownEvents>
+			</sublevel>
+			<sublevel id="4">
+				<targetScore>25</targetScore>
+				<extraTimeLevel>0</extraTimeLevel>
+				<subLevelUpEvents>1</subLevelUpEvents>
+				<subLevelDownEvents>-5</subLevelDownEvents>
+			</sublevel>
+			<sublevel id="5">
+				<targetScore>25</targetScore>
+				<extraTimeLevel>0</extraTimeLevel>
+				<subLevelUpEvents>1</subLevelUpEvents>
+				<subLevelDownEvents>-5</subLevelDownEvents>
+			</sublevel>
+		</level>
+		<level id="5">
+			<sublevel id="0">
+				<targetScore>25</targetScore>
+				<extraTimeLevel>0</extraTimeLevel>
+				<subLevelUpEvents>1</subLevelUpEvents>
+				<subLevelDownEvents>-5</subLevelDownEvents>
+			</sublevel>
+			<sublevel id="1">
+				<targetScore>25</targetScore>
+				<extraTimeLevel>0</extraTimeLevel>
+				<subLevelUpEvents>1</subLevelUpEvents>
+				<subLevelDownEvents>-5</subLevelDownEvents>
+			</sublevel>
+			<sublevel id="2">
+				<targetScore>25</targetScore>
+				<extraTimeLevel>0</extraTimeLevel>
+				<subLevelUpEvents>1</subLevelUpEvents>
+				<subLevelDownEvents>-5</subLevelDownEvents>
+			</sublevel>
+			<sublevel id="3">
+				<targetScore>25</targetScore>
+				<extraTimeLevel>0</extraTimeLevel>
+				<subLevelUpEvents>1</subLevelUpEvents>
+				<subLevelDownEvents>-5</subLevelDownEvents>
+			</sublevel>
+			<sublevel id="4">
+				<targetScore>25</targetScore>
+				<extraTimeLevel>0</extraTimeLevel>
+				<subLevelUpEvents>1</subLevelUpEvents>
+				<subLevelDownEvents>-5</subLevelDownEvents>
+			</sublevel>
+			<sublevel id="5">
+				<targetScore>25</targetScore>
+				<extraTimeLevel>0</extraTimeLevel>
+				<subLevelUpEvents>1</subLevelUpEvents>
+				<subLevelDownEvents>-5</subLevelDownEvents>
+			</sublevel>
+		</level>
+	</levels>
+	<achievements>
+		<achievement id="TOP_LEVEL_FINISHED">
+			<neurons>50</neurons>
+		</achievement>
+	</achievements>
+</game>

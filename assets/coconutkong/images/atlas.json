@@ -1,0 +1,116 @@
+{"frames": [
+
+{
+	"filename": "bridge.png",
+	"frame": {"x":2,"y":2,"w":160,"h":126},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":1,"w":160,"h":126},
+	"sourceSize": {"w":160,"h":128}
+},
+{
+	"filename": "btnInfo.png",
+	"frame": {"x":104,"y":130,"w":40,"h":40},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":40,"h":40},
+	"sourceSize": {"w":40,"h":40}
+},
+{
+	"filename": "btnMute.png",
+	"frame": {"x":164,"y":45,"w":41,"h":41},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":41,"h":41},
+	"sourceSize": {"w":41,"h":41}
+},
+{
+	"filename": "btnPause.png",
+	"frame": {"x":164,"y":88,"w":40,"h":40},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":40,"h":40},
+	"sourceSize": {"w":40,"h":40}
+},
+{
+	"filename": "btnPlay.png",
+	"frame": {"x":2,"y":130,"w":100,"h":100},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":100,"h":100},
+	"sourceSize": {"w":100,"h":100}
+},
+{
+	"filename": "btnUnmute.png",
+	"frame": {"x":164,"y":2,"w":41,"h":41},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":41,"h":41},
+	"sourceSize": {"w":41,"h":41}
+},
+{
+	"filename": "coconutA.png",
+	"frame": {"x":173,"y":214,"w":32,"h":30},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":32,"h":30},
+	"sourceSize": {"w":32,"h":30}
+},
+{
+	"filename": "coconutB.png",
+	"frame": {"x":139,"y":214,"w":32,"h":32},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":32,"h":32},
+	"sourceSize": {"w":32,"h":32}
+},
+{
+	"filename": "kong_01.png",
+	"frame": {"x":139,"y":173,"w":33,"h":39},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":7,"y":4,"w":33,"h":39},
+	"sourceSize": {"w":47,"h":47}
+},
+{
+	"filename": "kong_02.png",
+	"frame": {"x":104,"y":213,"w":33,"h":39},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":7,"y":4,"w":33,"h":39},
+	"sourceSize": {"w":47,"h":47}
+},
+{
+	"filename": "kong_03.png",
+	"frame": {"x":146,"y":130,"w":33,"h":41},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":9,"y":2,"w":33,"h":41},
+	"sourceSize": {"w":51,"h":47}
+},
+{
+	"filename": "kong_04.png",
+	"frame": {"x":174,"y":173,"w":32,"h":39},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":9,"y":4,"w":32,"h":39},
+	"sourceSize": {"w":50,"h":47}
+},
+{
+	"filename": "kong_05.png",
+	"frame": {"x":104,"y":172,"w":33,"h":39},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":7,"y":4,"w":33,"h":39},
+	"sourceSize": {"w":49,"h":47}
+}],
+"meta": {
+	"app": "http://www.texturepacker.com",
+	"version": "1.0",
+	"image": "atlas.png",
+	"format": "RGBA8888",
+	"size": {"w":208,"h":254},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:82064c8be882da3ca5b4751322aa8285$"
+}
+}
