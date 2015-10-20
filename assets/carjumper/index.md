@@ -2,6 +2,6 @@
 
 A prototype made in ActionScript 3.0. Box2D physics for real-world car simulation.
 
-Play [Car Jumper](index.html) online
+**Play [Car Jumper](index.html)**
 
-![Car Jumper Screenshot](carjumper_screenshot.jpg)
+![Car Jumper Screenshot](screenshot.jpg)
