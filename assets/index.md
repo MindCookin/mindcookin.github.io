@@ -7,7 +7,7 @@
 * **[Kujenga Pamoja](kujengapamoja/index.md) (game design + development)**
 
 ##### Unity 3D
-* [Run Cube Run](runcuberun/index.md) (game design + development) <br/>__ \*\*\* Published in [Play Store](https://play.google.com/store/apps/details?id=com.mindcookin.cuberunner) \*\*\* __
+* [Run Cube Run](runcuberun/index.md) (game design + development) <br/> __\*\*\* Published in [Play Store](https://play.google.com/store/apps/details?id=com.mindcookin.cuberunner) \*\*\*__
 * [Cannon Ball Mayhem](cannonballmayhem/index.md) (prototype)
 
 ##### Action Script 3.0
