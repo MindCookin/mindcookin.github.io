@@ -1,4 +1,4 @@
-# ![logo](Logo.png)Mind Cookin's Game Index
+# Game Index
 
 ##### HTML5
 * **[Coconut Kong](coconutkong/index.md) (game design + development)**
